@@ -1,0 +1,100 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "Elegant storefront banner",
+      "imageUrl": "https://images.unsplash.com/photo-1642761122735-08989395c8bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdG9yZSUyMGZhc2hpb258ZW58MHx8fHwxNzYxMjc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "store fashion"
+    },
+    {
+      "id": "product-1-a",
+      "description": "Artisanal leather handbag",
+      "imageUrl": "https://images.unsplash.com/photo-1575295912464-fcfd1186d11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsZWF0aGVyJTIwaGFuZGJhZ3xlbnwwfHx8fDE3NjEyMjY5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather handbag"
+    },
+    {
+      "id": "product-1-b",
+      "description": "Artisanal leather handbag detail",
+      "imageUrl": "https://images.unsplash.com/photo-1760080839464-8dbe9468cb3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYW5kYmFnJTIwZGV0YWlsfGVufDB8fHx8MTc2MTI3ODYzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handbag detail"
+    },
+    {
+      "id": "product-2-a",
+      "description": "Handcrafted ceramic vase",
+      "imageUrl": "https://images.unsplash.com/photo-1643569556871-91ec60671ed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjZXJhbWljJTIwdmFzZXxlbnwwfHx8fDE3NjExNjc0MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ceramic vase"
+    },
+    {
+      "id": "product-3-a",
+      "description": "Minimalist silver watch",
+      "imageUrl": "https://images.unsplash.com/photo-1636639818651-d97365346a5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzaWx2ZXIlMjB3YXRjaHxlbnwwfHx8fDE3NjExNjI2NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silver watch"
+    },
+    {
+      "id": "product-4-a",
+      "description": "Organic cotton scarf",
+      "imageUrl": "https://images.unsplash.com/photo-1631089889895-956d162dbad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3R0b24lMjBzY2FyZnxlbnwwfHx8fDE3NjEyNzg2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cotton scarf"
+    },
+    {
+      "id": "product-5-a",
+      "description": "Designer sunglasses",
+      "imageUrl": "https://images.unsplash.com/photo-1681147768258-d869869d2d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdW5nbGFzc2VzJTIwZmFzaGlvbnxlbnwwfHx8fDE3NjEyMjc3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunglasses fashion"
+    },
+    {
+      "id": "product-6-a",
+      "description": "Modern desk lamp",
+      "imageUrl": "https://images.unsplash.com/photo-1621447980929-6638614633c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNrJTIwbGFtcHxlbnwwfHx8fDE3NjEyMzY3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desk lamp"
+    },
+    {
+      "id": "product-7-a",
+      "description": "Scented soy candle",
+      "imageUrl": "https://images.unsplash.com/photo-1570823635306-250abb06d4b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2NlbnRlZCUyMGNhbmRsZXxlbnwwfHx8fDE3NjEyNDM2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scented candle"
+    },
+    {
+      "id": "product-8-a",
+      "description": "Wireless bluetooth headphones",
+      "imageUrl": "https://images.unsplash.com/photo-1722110351621-f1a54d062b4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoZWFkcGhvbmVzJTIwYXVkaW98ZW58MHx8fHwxNzYxMTcyMzEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones audio"
+    },
+    {
+      "id": "category-fashion",
+      "description": "Fashion category image",
+      "imageUrl": "https://images.unsplash.com/photo-1508296695146-257a814070b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYXNoaW9uJTIwc3R5bGV8ZW58MHx8fHwxNzYxMjczNDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion style"
+    },
+    {
+      "id": "category-electronics",
+      "description": "Electronics category image",
+      "imageUrl": "https://images.unsplash.com/photo-1565495055951-25a25e021cef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnYWRnZXRzJTIwdGVjaHxlbnwwfHx8fDE3NjEyMzgxNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gadgets tech"
+    },
+    {
+      "id": "category-home",
+      "description": "Home goods category image",
+      "imageUrl": "https://images.unsplash.com/photo-1628152371231-936cf45eb8f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxob21lJTIwZGVjb3J8ZW58MHx8fHwxNzYxMjIzMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "home decor"
+    },
+    {
+      "id": "category-beauty",
+      "description": "Beauty products category image",
+      "imageUrl": "https://images.unsplash.com/photo-1583629543691-1ddb9f196637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3NtZXRpY3MlMjBiZWF1dHl8ZW58MHx8fHwxNzYxMjc4NjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cosmetics beauty"
+    },
+    {
+      "id": "avatar-1",
+      "description": "User avatar 1",
+      "imageUrl": "https://images.unsplash.com/photo-1535643302794-19c3804b874b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjEyMjc5NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "User avatar 2",
+      "imageUrl": "https://images.unsplash.com/photo-1598625873873-52f9aefd7d9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYxMjQ2NTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    }
+  ]
+}
